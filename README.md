@@ -136,7 +136,7 @@ Assurez-vous que tous les fichiers image (.gif) sont présents et que Turtle Gra
 
 ## 👥 Crédits
 
-**Développé par :** Chamberlan Quentin
+**Développé par :** Chamberlan Quentin en 2022
 
 ## 📄 Licence
 
