@@ -137,7 +137,3 @@ Assurez-vous que tous les fichiers image (.gif) sont présents et que Turtle Gra
 ## 👥 Crédits
 
 **Développé par :** Chamberlan Quentin en 2022
-
-## 📄 Licence
-
-Ce projet est sous licence libre. Vous êtes libres de l'utiliser, le modifier et le distribuer.
